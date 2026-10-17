@@ -2,14 +2,15 @@
   "project": "관계 데이터 모델과 제약조건",
   "phase": "first_full_draft",
   "total_pages": 24,
-  "next_page": 7,
+  "next_page": 8,
   "attempted_pages": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "scripts_uploaded": [
     1,
@@ -17,7 +18,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "draft_images_on_github": [],
   "page_01": {
@@ -48,14 +50,15 @@
     ],
     "github_image_uploaded": false
   },
-  "note": "01-06 attempted. All scripts uploaded. No page images on GitHub. Continue with page 07.",
+  "note": "01–07 script pages uploaded; GitHub draft PNGs: 0 confirmed; page 07 image attempt pending. Next page 08.",
   "image_missing_backlog": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "page_05": {
     "status": "script_uploaded; one image generated but incorrect page 02 content; rejected as page 05; image upload not done; deferred until after page 24",
@@ -71,6 +74,14 @@
     "source_pdf_pages": [
       12,
       13
+    ],
+    "github_image_uploaded": false
+  },
+  "page_07": {
+    "status": "script_uploaded; image generation pending; no GitHub image upload confirmed",
+    "source_pdf_pages": [
+      14,
+      15
     ],
     "github_image_uploaded": false
   }
