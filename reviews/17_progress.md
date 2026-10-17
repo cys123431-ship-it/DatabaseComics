@@ -1,0 +1,3 @@
+# Page 17/24 — first draft progress
+
+Page 17 attempted on 2026-10-18 KST. Original PDF pages 35-36: self-referencing foreign key MANAGER -> EMPNO and enrollment composite primary key (student number, course number). Script drafted locally. One PNG generated locally but it mismatches the script and instead explains referential integrity. Preserve it as a draft and defer repair until after page 24. Next page: 18/24. README and progress.json next=9 are stale. GitHub PNG upload not confirmed.
