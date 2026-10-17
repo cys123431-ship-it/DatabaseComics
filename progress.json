@@ -48,7 +48,7 @@
     ],
     "github_image_uploaded": false
   },
-  "note": "Next page 07. Do not retry earlier pages until all 24 are attempted. Image files not yet uploaded to GitHub.",
+  "note": "01-06 attempted. All scripts uploaded. No page images on GitHub. Continue with page 07.",
   "image_missing_backlog": [
     1,
     2,
@@ -67,7 +67,7 @@
     "review": "reviews/05.md"
   },
   "page_06": {
-    "status": "script_uploaded; image generation requested; GitHub PNG not confirmed",
+    "status": "script_uploaded; image returned page 02 instead of page 06; pending later",
     "source_pdf_pages": [
       12,
       13
