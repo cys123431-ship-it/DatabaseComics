@@ -36,12 +36,19 @@
     ]
   },
   "page_04": {
-    "status": "script_uploaded; image_generation_pending; github_png_unconfirmed",
+    "status": "script_uploaded; two image attempts mismatched page numbers 02 and 03; correct image missing; defer",
     "source_pdf_pages": [
       7,
       8,
       9
-    ]
+    ],
+    "github_image_uploaded": false
   },
-  "note": "First full draft: progress through 01-24 without retry loops; pages 01-03 images not present in GitHub drafts. Separate script completion from verified image upload."
+  "note": "First full draft: progress through 01-24 without retry loops; pages 01-03 images not present in GitHub drafts. Separate script completion from verified image upload.",
+  "image_missing_backlog": [
+    1,
+    2,
+    3,
+    4
+  ]
 }
