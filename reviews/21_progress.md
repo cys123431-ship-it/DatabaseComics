@@ -1,0 +1,2 @@
+# 21/24 progress
+2026-10-18 08:20 KST: PDF 43~44 verified; 6-panel script created. Image first generation attempted this run; image storage/upload to be verified separately. Next page 22/24. README/progress.json next=9 is stale. Do not retry 01~21 before page 24. 09 script and 12~20 image mismatches deferred.
