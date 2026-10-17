@@ -2,14 +2,16 @@
   "project": "관계 데이터 모델과 제약조건",
   "phase": "first_full_draft",
   "total_pages": 24,
-  "next_page": 3,
+  "next_page": 4,
   "attempted_pages": [
     1,
-    2
+    2,
+    3
   ],
   "scripts_uploaded": [
     1,
-    2
+    2,
+    3
   ],
   "draft_images_on_github": [],
   "page_01": {
@@ -23,5 +25,12 @@
     ]
   },
   "rule": "After first attempt on page 02, move to page 03; do not repeatedly remake page 01 or 02 before all 24 are attempted.",
-  "updated_local_date": "2026-10-17"
+  "updated_local_date": "2026-10-17",
+  "page_03": {
+    "status": "script_uploaded; image_upload_pending",
+    "source_pdf_pages": [
+      5,
+      6
+    ]
+  }
 }
