@@ -52,7 +52,7 @@
     ],
     "github_image_uploaded": false
   },
-  "note": "01~08쪽 시나리오 GitHub 반영. PNG는 아직 GitHub에 게시 확인되지 않음. 08쪽 이미지 생성은 이번 실행에서 별도 시도; 다음 페이지 09.",
+  "note": "01~08 scripts uploaded. 08 image mismatch documented. GitHub PNG confirmed 0. Next 09.",
   "image_missing_backlog": [
     1,
     2,
@@ -89,7 +89,7 @@
     "github_image_uploaded": false
   },
   "page_08": {
-    "status": "script_uploaded; 1차 이미지 생성 요청 단계; GitHub 이미지 업로드 미확인",
+    "status": "script_uploaded; generated image showed page 07 instead of 08; deferred",
     "source_pdf_pages": [
       16,
       17,
@@ -97,6 +97,7 @@
     ],
     "github_image_uploaded": false,
     "script": "scripts/08.md",
-    "source_verified": true
+    "source_verified": true,
+    "review": "reviews/08.md"
   }
 }
