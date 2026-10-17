@@ -46,7 +46,7 @@
     ],
     "github_image_uploaded": false
   },
-  "note": "First full draft progresses 01-24 without retry loops. Pages 01-05 images are not confirmed on GitHub. Images generated in chat are drafts until published and verified. Next page 06.",
+  "note": "Attempted 01-05. GitHub scripts 01-05 exist. No verified image in drafts/. 05 image generation returned wrong page (02); do not count as page 05 image. Proceed with page 06 next.",
   "image_missing_backlog": [
     1,
     2,
@@ -55,11 +55,12 @@
     5
   ],
   "page_05": {
-    "status": "script_uploaded; image generation pending; github_png_unconfirmed",
+    "status": "script_uploaded; one image generated but incorrect page 02 content; rejected as page 05; image upload not done; deferred until after page 24",
     "source_pdf_pages": [
       10,
       11
     ],
-    "github_image_uploaded": false
+    "github_image_uploaded": false,
+    "review": "reviews/05.md"
   }
 }
