@@ -142,7 +142,24 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": 12,
+  "next_repair_page": 15,
   "last_audit_local_date": "2026-10-18",
-  "last_repair_run_kst": "2026-10-18 14:20"
+  "last_repair_run_kst": "2026-10-18 17:20",
+  "repair_backlog": [
+    12,
+    13,
+    14
+  ],
+  "page_14": {
+    "source_pdf_pages": [
+      29,
+      30
+    ],
+    "script_local": true,
+    "github_script_uploaded": true,
+    "github_png_uploaded": false,
+    "image_local": "drafts/14_attempt1_rejected.png",
+    "image_status": "rejected: generated candidate-key enrollment page instead of primary-key selection",
+    "review": "reviews/14_progress.md"
+  }
 }
