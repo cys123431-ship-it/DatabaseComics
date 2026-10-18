@@ -142,16 +142,17 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": 18,
+  "next_repair_page": 20,
   "last_audit_local_date": "2026-10-18",
-  "last_repair_run_kst": "2026-10-18 20:20",
+  "last_repair_run_kst": "2026-10-18 22:20",
   "repair_backlog": [
     12,
     13,
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "page_14": {
     "source_pdf_pages": [
@@ -197,5 +198,19 @@
     "github_png_uploaded": false,
     "review": "reviews/17_progress.md",
     "image_local": "drafts/17_attempt1_rejected.png"
+  },
+  "visual_polish_backlog": [
+    19
+  ],
+  "page_19": {
+    "source_pdf_pages": [
+      39,
+      40
+    ],
+    "script_github_uploaded": true,
+    "github_png_uploaded": false,
+    "image_status": "first generated image rejected; corrected typeset content passed, narrative staging provisional",
+    "image_local": "drafts/19_v2_typeset.png",
+    "review": "reviews/19_progress.md (local; GitHub write blocked)"
   }
 }
