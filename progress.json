@@ -142,14 +142,16 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": 16,
+  "next_repair_page": 18,
   "last_audit_local_date": "2026-10-18",
-  "last_repair_run_kst": "2026-10-18 18:20",
+  "last_repair_run_kst": "2026-10-18 20:20",
   "repair_backlog": [
     12,
     13,
     14,
-    15
+    15,
+    16,
+    17
   ],
   "page_14": {
     "source_pdf_pages": [
@@ -174,5 +176,26 @@
     "image_status": "rejected: missing BOOK ISBN, invented customer numbers, incorrect alternate-key example",
     "image_local": "drafts/15_attempt1_rejected.png",
     "review": "reviews/15_progress.md"
+  },
+  "page_16": {
+    "source_pdf_pages": [
+      33,
+      34
+    ],
+    "script_github_existing": true,
+    "image_status": "rejected: generated incorrect EMPLOYEE.DNO values and added unrelated columns",
+    "github_png_uploaded": false,
+    "review": "reviews/16_progress.md"
+  },
+  "page_17": {
+    "source_pdf_pages": [
+      35,
+      36
+    ],
+    "script_github_uploaded": true,
+    "image_status": "rejected: image repeats page 16 general foreign key instead of self-referencing MANAGER and composite enrollment key",
+    "github_png_uploaded": false,
+    "review": "reviews/17_progress.md",
+    "image_local": "drafts/17_attempt1_rejected.png"
   }
 }
