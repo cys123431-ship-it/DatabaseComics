@@ -2,7 +2,7 @@
   "project": "관계 데이터 모델과 제약조건",
   "phase": "first_full_draft",
   "total_pages": 24,
-  "next_page": 9,
+  "next_page": 23,
   "attempted_pages": [
     1,
     2,
@@ -11,7 +11,21 @@
     5,
     6,
     7,
-    8
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
   ],
   "scripts_uploaded": [
     1,
@@ -35,7 +49,7 @@
     ]
   },
   "rule": "After first attempt on page 02, move to page 03; do not repeatedly remake page 01 or 02 before all 24 are attempted.",
-  "updated_local_date": "2026-10-17",
+  "updated_local_date": "2026-10-18",
   "page_03": {
     "status": "script_uploaded; image_upload_pending",
     "source_pdf_pages": [
@@ -52,7 +66,7 @@
     ],
     "github_image_uploaded": false
   },
-  "note": "01~08 scripts uploaded. 08 image mismatch documented. GitHub PNG confirmed 0. Next 09.",
+  "note": "Page 22 first-pass attempt; page 09 script and mismatched images deferred until after page 24. PNG upload unconfirmed.",
   "image_missing_backlog": [
     1,
     2,
@@ -99,5 +113,6 @@
     "script": "scripts/08.md",
     "source_verified": true,
     "review": "reviews/08.md"
-  }
+  },
+  "latest_page": 22
 }
