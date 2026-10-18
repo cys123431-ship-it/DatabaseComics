@@ -1,8 +1,8 @@
 {
   "project": "관계 데이터 모델과 제약조건",
-  "phase": "first_full_draft",
+  "phase": "first_draft_repair",
   "total_pages": 24,
-  "next_page": 24,
+  "next_page": null,
   "attempted_pages": [
     1,
     2,
@@ -26,7 +26,8 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "scripts_uploaded": [
     1,
@@ -115,7 +116,7 @@
     "source_verified": true,
     "review": "reviews/08.md"
   },
-  "latest_page": 23,
+  "latest_page": 24,
   "page_23": {
     "source_pdf_pages": [
       47,
@@ -127,5 +128,23 @@
     "github_script_uploaded": false,
     "github_png_uploaded": false,
     "review": "reviews/23_progress.md"
-  }
+  },
+  "recovered_scripts": [
+    9
+  ],
+  "page_09": {
+    "source_pdf_pages": [
+      19,
+      20
+    ],
+    "script_local": true,
+    "script_github": false,
+    "image_local": true,
+    "image_github": false,
+    "image_matches_script": false,
+    "review": "reviews/09_progress.md",
+    "issue": "generated image wrong DEPARTMENT/EMPLOYEE values and includes extra SQL type details; repair pending"
+  },
+  "next_repair_page": 9,
+  "last_audit_local_date": "2026-10-18"
 }
