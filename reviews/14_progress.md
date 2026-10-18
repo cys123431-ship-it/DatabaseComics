@@ -1,0 +1,1 @@
+14/24: Library PDF pp.29-30 checked; scripts/14.md and draft image absent at audit; primary key selection script reconstructed. Image verification pending. Next repair page 15. Backlog pages 12 and 13 remain rejected.
