@@ -133,18 +133,16 @@
     9
   ],
   "page_09": {
+    "status": "v2_corrected_local_data_checked; script_staging_partial; GitHub PNG not uploaded",
     "source_pdf_pages": [
       19,
       20
     ],
-    "script_local": true,
-    "script_github": false,
-    "image_local": true,
-    "image_github": false,
-    "image_matches_script": false,
-    "review": "reviews/09_progress.md",
-    "issue": "generated image wrong DEPARTMENT/EMPLOYEE values and includes extra SQL type details; repair pending"
+    "image_local": "drafts/09_v2.png",
+    "data_accuracy": "passed",
+    "github_png_uploaded": false
   },
-  "next_repair_page": 9,
-  "last_audit_local_date": "2026-10-18"
+  "next_repair_page": 12,
+  "last_audit_local_date": "2026-10-18",
+  "last_repair_run_kst": "2026-10-18 14:20"
 }
