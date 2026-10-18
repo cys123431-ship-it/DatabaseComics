@@ -127,7 +127,11 @@
     "image_mismatch": true,
     "github_script_uploaded": false,
     "github_png_uploaded": false,
-    "review": "reviews/23_progress.md"
+    "review": "reviews/23_progress.md",
+    "content_accuracy": "passed",
+    "manga_visual_quality": "needs_polish",
+    "local_typeset": "drafts/23_v2_typeset.png",
+    "source_note": "47 figure DNO=3 on rows 2,5; 48 prose says rows 3,5"
   },
   "recovered_scripts": [
     9
@@ -142,9 +146,9 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": 20,
-  "last_audit_local_date": "2026-10-18",
-  "last_repair_run_kst": "2026-10-18 22:20",
+  "next_repair_page": 24,
+  "last_audit_local_date": "2026-10-19",
+  "last_repair_run_kst": "2026-10-19 02:20",
   "repair_backlog": [
     12,
     13,
@@ -200,7 +204,12 @@
     "image_local": "drafts/17_attempt1_rejected.png"
   },
   "visual_polish_backlog": [
-    19
+    9,
+    19,
+    20,
+    21,
+    22,
+    23
   ],
   "page_19": {
     "source_pdf_pages": [
