@@ -1,0 +1,3 @@
+# 13/24 source recovery audit — 2026-10-20 03:20 KST
+
+Library PDF pp.27–28 text and actual images checked. `scripts/13.md` and `reviews/13_progress.md` returned 404. Original script unavailable. A clearly labeled **candidate script** was drafted but no verified page-13 image was generated. Image generation returned a page 12/24 alternate image, which was saved locally and **not accepted**. Page 12 original script also unavailable. Existing pass pages 01–08 unchanged. Next: repair page 14 using existing `scripts/14.md`; keep pages 12–13 on backlog. GitHub PNG uploads this run: 0. Final 24-page style unification deferred.
