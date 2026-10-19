@@ -140,7 +140,10 @@
     "github_image_uploaded": false,
     "script": "scripts/08.md",
     "source_verified": true,
-    "review": "reviews/08.md"
+    "review": "reviews/08_reuse_audit_20261019.md",
+    "script_status": "existing_verified_reuse_5_panels",
+    "existing_image_reuse_status": "six_library_candidates_rejected_male_or_two_page_spread_or_out_of_scope",
+    "github_png_uploaded": false
   },
   "latest_page": 24,
   "page_23": {
@@ -174,7 +177,7 @@
   },
   "next_repair_page": null,
   "last_audit_local_date": "2026-10-19",
-  "last_repair_run_kst": "2026-10-19 10:20 KST",
+  "last_repair_run_kst": "2026-10-19 11:20 KST",
   "repair_backlog": [
     12,
     13,
@@ -249,7 +252,7 @@
     "image_local": "drafts/19_v2_typeset.png",
     "review": "reviews/19_progress.md (local; GitHub write blocked)"
   },
-  "next_priority_task": "page_08_existing_image_and_script_content_audit",
+  "next_priority_task": "page_01_targeted_image_repair_after_reuse_audits",
   "page_24": {
     "source_pdf_pages": [
       49
@@ -261,5 +264,36 @@
     "github_png_uploaded": false,
     "review": "reviews/24_progress.md"
   },
-  "last_audited_page": 7
+  "last_audited_page": 8,
+  "first_eight_reuse_audit_complete": true,
+  "source_pdf_exact_filename_verified": true,
+  "source_pdf_sha256": "1d52a79298d85a93481dc494f7aea1388ee4865ce48a176b5b0676a8a8f932c4",
+  "planned_image_repair_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "planned_content_repair_order": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "planned_visual_polish_order": [
+    9,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ]
 }
