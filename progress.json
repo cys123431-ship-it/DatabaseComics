@@ -113,7 +113,7 @@
     "github_png_uploaded": false
   },
   "page_06": {
-    "status": "script_uploaded; image returned page 02 instead of page 06; pending later",
+    "status": "image_v1_first_draft_pass_local_png_not_uploaded",
     "source_pdf_pages": [
       12,
       13
@@ -123,7 +123,9 @@
     "existing_image_reuse_status": "six_library_candidates_rejected_male_or_two_page_spread_or_out_of_scope",
     "library_existing_image_candidates": 6,
     "github_png_uploaded": false,
-    "review": "reviews/06_reuse_audit_20261019.md"
+    "review": "reviews/06_image_v1_audit_20261019.md",
+    "image_status": "first_draft_pass_2026_10_19",
+    "image_local": "drafts/06_v1_20261019_first_draft_pass.png"
   },
   "page_07": {
     "status": "script_uploaded; image generation pending; no GitHub image upload confirmed",
@@ -184,9 +186,9 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": null,
+  "next_repair_page": 7,
   "last_audit_local_date": "2026-10-19",
-  "last_repair_run_kst": "2026-10-19 21:32 KST",
+  "last_repair_run_kst": "2026-10-19 22:45 KST",
   "repair_backlog": [
     12,
     13,
@@ -261,7 +263,7 @@
     "image_local": "drafts/19_v2_typeset.png",
     "review": "reviews/19_progress.md (local; GitHub write blocked)"
   },
-  "next_priority_task": "page_06_targeted_image_creation_after_page_05_v2_pass",
+  "next_priority_task": "page_07_targeted_image_creation_after_page_06_v1_pass",
   "page_24": {
     "source_pdf_pages": [
       49
@@ -310,6 +312,7 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ]
 }
