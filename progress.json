@@ -190,9 +190,9 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": 12,
+  "next_repair_page": 18,
   "last_audit_local_date": "2026-10-19",
-  "last_repair_run_kst": "2026-10-20 01:20 KST",
+  "last_repair_run_kst": "2026-10-20 08:20 KST",
   "repair_backlog": [
     12,
     13,
@@ -242,10 +242,13 @@
       36
     ],
     "script_github_uploaded": true,
-    "image_status": "rejected: image repeats page 16 general foreign key instead of self-referencing MANAGER and composite enrollment key",
+    "image_status": "first_draft_content_pass_2026_10_20_local_png_not_uploaded",
     "github_png_uploaded": false,
-    "review": "reviews/17_progress.md",
-    "image_local": "drafts/17_attempt1_rejected.png"
+    "review": "reviews/17_image_v1_audit_20261020.md (local)",
+    "image_local": "drafts/17_v1_20261020_content_pass_typeset.png",
+    "script_blob_sha": "a0565f7eb1e99fc7d2d4077e2c8ddaaa690536d7",
+    "image_sha256": "312f43a16f95d389d913c3041160a58cc8e3772111d73d158a41f8075c9d3b76",
+    "next_title_status": "scripts/18.md not found; no invented title"
   },
   "visual_polish_backlog": [
     9,
@@ -267,7 +270,7 @@
     "image_local": "drafts/19_v2_typeset.png",
     "review": "reviews/19_progress.md (local; GitHub write blocked)"
   },
-  "next_priority_task": "page_12_source_content_image_repair",
+  "next_priority_task": "page_18_source_script_and_image_audit",
   "page_24": {
     "source_pdf_pages": [
       49
@@ -319,11 +322,16 @@
     5,
     6,
     7,
-    8
+    8,
+    14,
+    15,
+    16,
+    17
   ],
   "style_revision": {
     "status": "deferred_until_all_24_content_draft_pages_verified",
     "reference_image": "1000157486.jpg",
     "preserve_first_draft": true
-  }
+  },
+  "first_draft_pass_count": 12
 }
