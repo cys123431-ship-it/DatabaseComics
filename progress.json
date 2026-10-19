@@ -142,7 +142,7 @@
     "note": "5010 fictional; 2106 from later PDF page, not page 14-15"
   },
   "page_08": {
-    "status": "script_uploaded; generated image showed page 07 instead of 08; deferred",
+    "status": "content_first_draft_pass_2026_10_20_local_png_style_revision_deferred",
     "source_pdf_pages": [
       16,
       17,
@@ -151,10 +151,14 @@
     "github_image_uploaded": false,
     "script": "scripts/08.md",
     "source_verified": true,
-    "review": "reviews/08_reuse_audit_20261019.md",
+    "review": "reviews/08_image_v1_audit_20261020.md (local)",
     "script_status": "existing_verified_reuse_5_panels",
     "existing_image_reuse_status": "six_library_candidates_rejected_male_or_two_page_spread_or_out_of_scope",
-    "github_png_uploaded": false
+    "github_png_uploaded": false,
+    "image_status": "first_draft_content_pass_2026_10_20",
+    "image_local": "drafts/08_v1_20261020_first_draft_pass.png",
+    "source_table_accuracy": "passed_pdf_page_18_5_columns_4_rows",
+    "dialogue_status": "existing_script_restored_by_precise_typesetting"
   },
   "latest_page": 24,
   "page_23": {
@@ -186,9 +190,9 @@
     "data_accuracy": "passed",
     "github_png_uploaded": false
   },
-  "next_repair_page": 7,
+  "next_repair_page": 12,
   "last_audit_local_date": "2026-10-19",
-  "last_repair_run_kst": "2026-10-19 22:45 KST",
+  "last_repair_run_kst": "2026-10-20 01:20 KST",
   "repair_backlog": [
     12,
     13,
@@ -263,7 +267,7 @@
     "image_local": "drafts/19_v2_typeset.png",
     "review": "reviews/19_progress.md (local; GitHub write blocked)"
   },
-  "next_priority_task": "page_07_targeted_image_creation_after_page_06_v1_pass",
+  "next_priority_task": "page_12_source_content_image_repair",
   "page_24": {
     "source_pdf_pages": [
       49
@@ -313,6 +317,13 @@
     3,
     4,
     5,
-    6
-  ]
+    6,
+    7,
+    8
+  ],
+  "style_revision": {
+    "status": "deferred_until_all_24_content_draft_pages_verified",
+    "reference_image": "1000157486.jpg",
+    "preserve_first_draft": true
+  }
 }
