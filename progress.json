@@ -192,7 +192,7 @@
   },
   "next_repair_page": 18,
   "last_audit_local_date": "2026-10-19",
-  "last_repair_run_kst": "2026-10-20 11:20 KST",
+  "last_repair_run_kst": "2026-10-20 14:20 KST",
   "repair_backlog": [
     12,
     13,
@@ -270,7 +270,7 @@
     "image_local": "drafts/19_v2_20261020_six_panel_narrative.png",
     "review": "reviews/19_narrative_repair_audit_20261020.md (local; GitHub write blocked)"
   },
-  "next_priority_task": "page_20_source_script_and_narrative_repair",
+  "next_priority_task": "page_23_source_script_and_image_audit",
   "page_24": {
     "source_pdf_pages": [
       49
@@ -333,5 +333,21 @@
     "reference_image": "1000157486.jpg",
     "preserve_first_draft": true
   },
-  "first_draft_pass_count": 12
+  "first_draft_pass_count": 12,
+  "page_22": {
+    "source_pdf_pages": [
+      45,
+      46
+    ],
+    "original_script_recovered": false,
+    "status": "reconstruction_candidate_only_NOT_ORIGINAL_UNAPPROVED",
+    "image_status": "not_generated_this_run",
+    "github_png_uploaded": false,
+    "review": "reviews/22_source_recovery_audit_20261020.md",
+    "local_candidate": "scripts/22_reconstruction_candidate_NOT_ORIGINAL.md"
+  },
+  "page_21": {
+    "status": "original_script_missing; generated_candidate_wrong_page20_rejected_2026_10_20",
+    "github_png_uploaded": false
+  }
 }
